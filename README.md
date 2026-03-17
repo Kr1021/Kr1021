@@ -14,8 +14,8 @@
 
 AI Engineer with **3+ years of experience** building production-grade **Generative AI systems**, **LLM evaluation frameworks**, and **RAG pipelines**.
 
-- 🏢 Currently: **AI Engineer — Generative AI Systems** @ TECHNXTGEN
-- 🏦 Previously: **Junior AI Automation Engineer** @ PwC UK
+- 🏢 Currently: **AI Engineer — Generative AI Systems** 
+- 🏦 Previously: **Junior AI Automation Engineer** 
 - 🎓 **MSc Computer Science** — University of Hertfordshire
 - 📍 Based in **Glasgow, Scotland, UK**
 - 🔍 Open to: AI Engineer · Generative AI Engineer · Prompt Engineer · AI Consultant
